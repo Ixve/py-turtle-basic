@@ -35,7 +35,7 @@ def right():
     tu.forward(50)
 
 def leftclick(x,y):
-    tu.color(random.choice(boje))
+    tu.color(random.choice(colors))
 
 def rightclick(x,y):
     tu.stamp()
